@@ -1,0 +1,21 @@
+INTEGRANTES DO GRUPO — OrbitWatch
+
+Nome: Ryan Romagnoli
+RM: 568845
+
+Nome: Lucas Zarantonelli
+RM: 569164
+
+Nome: Felipe Romano
+RM: 571653
+
+Nome: Vinicius Di Tulio
+RM: 573019
+
+Nome: Nicole Barbosa
+RM: 569505
+
+---
+Projeto: Sistema de Monitoramento Global de Aquecimento e Desastres Naturais via Satélite
+Disciplina: Front-End Design
+
